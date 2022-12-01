@@ -1,2 +1,2 @@
 Alx shell basic script
-7. A script that moves betty from /tmp/ to /tmp/my_first_directory
+8. A script that deletes  betty from /tmp/my_first-_directory
