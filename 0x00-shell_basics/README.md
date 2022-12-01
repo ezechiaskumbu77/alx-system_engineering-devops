@@ -1,2 +1,2 @@
 Alx shell basic script
-9. First dir deletion
+10. Navigating to the previous dir
