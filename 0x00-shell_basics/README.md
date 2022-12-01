@@ -1,2 +1,2 @@
 Alx shell basic script
-6. A script that creates directory in /tmp/
+7. A script that moves betty from /tmp/ to /tmp/my_first_directory
