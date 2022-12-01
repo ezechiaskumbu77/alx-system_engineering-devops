@@ -1,2 +1,2 @@
 Alx shell basic script
-10. Navigating to the previous dir
+10. Navigating to the previous directory
