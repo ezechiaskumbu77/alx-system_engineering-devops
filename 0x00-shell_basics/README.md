@@ -1,2 +1,2 @@
 Alx shell basic script
-10. Navigating to the previous directory
+11. Listing all the files and hadden dir
