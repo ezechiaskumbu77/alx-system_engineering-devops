@@ -1,2 +1,2 @@
 Alx shell basic script
-8. A Bye bye Betty
+9. First dir deletion
