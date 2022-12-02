@@ -1,2 +1,2 @@
 Alx shell basic script
-14. That copies all HTLL files 
+15. That moves all files beginnning with an uppercase letter 
