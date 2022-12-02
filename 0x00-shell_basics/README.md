@@ -1,2 +1,2 @@
 Alx shell basic script
-11. Listing all the files and hadden dir
+12. That prints the type of the file named iamafile
