@@ -1,2 +1,2 @@
 alx shell permission
-1. Script that prints al the groups the current user is part of.
+3. Script that changes he owner of the file hello to the user betty.
