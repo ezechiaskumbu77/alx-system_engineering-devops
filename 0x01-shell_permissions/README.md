@@ -1,2 +1,2 @@
 Alx shell permission script
-4. Script that creates an empty file
+4. Script that adds execute permission to the owner of the file.
