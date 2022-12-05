@@ -1,2 +1,2 @@
 Alx shell permission script
-4. Script that adds execute permisssion to the owner, the group owner and the other usersn to the file.
+8. Script that adds execute permission to the others users and no permission to the owner and group
