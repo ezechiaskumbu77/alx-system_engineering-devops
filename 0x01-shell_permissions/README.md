@@ -1,2 +1,2 @@
 alx shell permission
-3. Script that changes he owner of the file hello to the user betty.
+4. Script that creates an empty file  
