@@ -1,2 +1,2 @@
 Alx, redirections abd filters
-4. The script that displays 10first  lines of a file
+6. The script that displays the third line of the file iacta
