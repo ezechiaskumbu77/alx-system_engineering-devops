@@ -1,2 +1,2 @@
 Alx, redirections abd filters
-2. The script that displays the content of /etc/passwd file
+3. The script that displays the content of two files
