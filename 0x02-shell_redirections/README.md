@@ -1,2 +1,2 @@
 Alx, redirections abd filters
-1. The script that displays a  confused smiley
+2. The script that displays the content of /etc/passwd file
