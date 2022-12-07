@@ -1,1 +1,1 @@
-10. Script that deletes all the regular files with a .js extension that are the parent in the current directory..
+11. Script that counts the number of directories and sub-directories in the current directory.
