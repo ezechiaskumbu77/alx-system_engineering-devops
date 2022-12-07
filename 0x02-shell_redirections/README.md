@@ -1,2 +1,2 @@
 Alx, redirections abd filters
-6. The script that displays the third line of the file iacta
+7. The script that creates a file name, containing a specific text
