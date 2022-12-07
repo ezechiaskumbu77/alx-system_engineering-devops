@@ -1,1 +1,1 @@
-12. Script that displays the 10 newest files in the current direcrtory.
+13. Script that takes a list of words as input and prints only words that appear exactly once.
