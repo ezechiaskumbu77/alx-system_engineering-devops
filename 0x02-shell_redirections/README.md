@@ -1,1 +1,1 @@
-20. Script that removes all letters c and C from input.
+20. Script that reverse its input.
