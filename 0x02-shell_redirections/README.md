@@ -1,1 +1,1 @@
-15. Script that displays the number of lines that contain the pattern "bin" in the file /etc/passwd
+16. Script that displays that containing the pattern "root" and 3 lines after them in the file /etc/passwd.
