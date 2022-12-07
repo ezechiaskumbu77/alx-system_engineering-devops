@@ -1,1 +1,1 @@
-18. Script that displays all line of the file /etc/ssh/sshd_config starting with a letter
+19. Script that replaces all characters A and c from input Z and e respectively.
