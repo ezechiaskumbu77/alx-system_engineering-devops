@@ -1,1 +1,1 @@
-22. Command that finds all empty files and directories in the current directory and all sub-directories.
+22. Script that lists all the files with a .gif extension in the current direcrtory and all its sub-direcrtories.
