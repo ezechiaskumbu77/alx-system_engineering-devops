@@ -1,1 +1,1 @@
-22. Script that displays all user and their hom direcrtories,sorted by users.
+22. Command that finds all empty files and directories in the current directory and all sub-directories.
